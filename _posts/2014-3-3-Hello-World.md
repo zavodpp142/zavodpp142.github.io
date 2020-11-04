@@ -3,8 +3,6 @@ layout: post
 title: Sites
 ---
 
-Sites
-
 * <http://google.com/>
 * <http://friend.click/>
 * <http://each.click/>
